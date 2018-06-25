@@ -103,7 +103,7 @@ Voici ce que je propose. La discussion est ouverte, contactez-moi directement si
 - upgrade: 
 	- introduction: Maxime (1/2 page)
 	- upgrade tracker: Seb / Nicolas (3 pages) 
-	- upgrade mu-RPC (Imad)
+	- upgrade mu-RPC: Imad (1 page) 
 
 ### Recommendations 
 
@@ -124,5 +124,6 @@ Utilisez toujours votre spell-checker avant de partager vos documents
 * [upgrade_tracker.md](upgrade_tracker.md) Upgrade tracker section
 
 
-## Partager votre travail
+## Share your work
 
+To be written 
