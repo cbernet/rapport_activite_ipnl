@@ -6,6 +6,7 @@ Le rapport d'activité est désormais écrit en markdown, ce qui est aussi le ca
 [README](https://raw.githubusercontent.com/cbernet/rapport_activite_ipnl/master/README.md). Voici [quelques informations sur markdown](https://fr.wikipedia.org/wiki/Markdown), et voici un example [upgrade_tracker.md](upgrade_tracker.md) 
 
 Pour écrire en markdown vous pouvez utiliser emacs ou tout autre éditeur de texte dont vous êtes familier. Mais il sera plus confortable d'utiliser un éditeur capable d'interpréter le markdown pendant que vous tapez:
+
 	* [MacDown](https://macdown.uranusjr.com/) sous mac OS
  	* [Atom](https://atom.io/) sous windows ou linux
 
