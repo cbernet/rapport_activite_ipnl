@@ -116,6 +116,7 @@ Il vous faut:
 
 *À ne faire qu'une fois*
 
+* Allez sur [mon repo github](https://github.com/cbernet/rapport_activite_ipnl) (cette page)
 * Cliquez sur _Clone or Download_ en haut à droite
 * Copiez l'adresse https et tapez ceci dans la ligne de commande:  
 
