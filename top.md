@@ -5,7 +5,7 @@ En particulier toute phénoménologie avec de particules de spin 0 (tel qu’un 
 
 Le groupe CMS de l’IPNL a été pionnier dans ce domaine au sein de CMS, en mettant en place une méthode de géneration d'événements dédiée, au sein de Madgraph, ainsi que des nouvelles méthodes d’analyse pour découvrir un tel signal dans les données et pour évaluer les contraintes que pourraient avoir des mesures éventuelles sur les modèles théoriques. C'est en effet le groupe CMS de l'IPNL qui a initié cette activité, au sein de CMS, en considérant la désintégration sémi-leptonique des paires de quarks top. D'autres groupes au sein de CMS ont rejoint cet effort par la suite, se dédiant au canal di-leptonique et confirmant l'intérêt du sujet. Dans ce contexte, le groupe de l'IPNL a pris naturellement le rôle de leader de ces recherches au sein de CMS.
 
-L’analyse, qui combine les résultats du canal semi-leptonique et di-leptonique pour une meilleure sensibilité, a été finalisée pour les données à 13TeV et un papier se trouve dans les dernières étapes de revue interne à la collaboration avant la publication. 
+L’analyse, qui combine les résultats du canal semi-leptonique et di-leptonique pour une meilleure sensibilité, a été finalisée pour les données à 13TeV et un papier se trouve dans les dernières étapes de revue interne à la collaboration avant la publication. La Figure 1 montre les zones que l’analyse serait capable d’exclure, dans le cas de non observation su signal. La Figure est produite dans une hypothèse particulière d’un modèle et les axes répresentent deux paramètres importants de ce modèle. Les valeurs observées sur les données ne sont pas montrées pour des raisons de confidentialité. Ces résultats ont un fort impact pour contraindre les modèles de physique au delà du MS. 
 
-
-
+![Figures/top/hmssm_exclusion](Figures/top/hmssm_exclusion.png)
+*Figure 1 : zone exclues par l’analyse, dans le cas de non observation su signal. Les axes répresentent deux paramètres importants du modèle considéré.*
