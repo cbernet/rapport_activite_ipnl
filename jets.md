@@ -4,7 +4,7 @@ Dans l’environnement hadronique des collisions proton-proton au LHC, un des pl
 Le groupe CMS de l’IPNL est fortement engagé dans les activités de détermination de l’echelle et de la resolution en énergie des jets, qui se fait par la combinaison de plusieurs analyses sur les données et les événements simulés. En particulier, le groupe est responsable de l’analyse d’événements avec un photon et un jet et des événements avec plusieurs jets dont un de très haute énergie.
 La contribution de ces deux analyses (appelées gamma+jet et multijet, respectivement) est visible dans la Figure 1, où elles sont combinées dans un ajustement avec d’autres résultats pour obtenir une connaissance optimale de l’echelle en énergie des jets. Cette connaissance est exploité par la collaboration entière, ce qui assure une bonne visibilité du groupe de Lyon au sein de CMS.  
 
-![Figures/jets/Figure_024-b](Figures/jets/Figure_024-b.pdf)
+![Figures/jets/JEC_globalfit](Figures/jets/JEC_globalfit.png)
 *Figure 1 : Ajustement globale utilisé pour extraire une meilleure connaissance de l’énergie des jets, en combinant les informations des plusieurs analyses. L’axe des abscisses répresente l’énergie des jets, l’axe des ordonnées le rapport entre l’énergie reconstruite par le détecteur et la vraie énergie du jet. De cette information on peut extraire des constantes permettant de calibrer l’énergie des jets et des uncertitudes systématiques, qui sont utilisées pas l’ensemble de la collaboration CMS.*
 
 
