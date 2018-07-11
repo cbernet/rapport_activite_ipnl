@@ -37,10 +37,11 @@ Voici ce que je propose. La discussion est ouverte, contactez-moi directement si
 
 - introduction globale : *Rob* (1/2 page)
 - physique: 
-	- Introduction: *Rob* (1/2 page)
-	- Objets: *Colin*
+	- Introduction: *Rob (ou Colin)* (1/2 page)
+	- CMS: *Colin*
 		- particle flow: Colin (1/2 page, 1 figure)
 		- jet energy corrections: Viola (1/2 page, 1 figure)
+		- fonctionnement : Gaelle (1/2 page, 1 figure)
 	- Bosons de Higgs additionnels: *Colin*
 		- H->gamma gamma: Suzanne (1/2 page, 1 figure)
 		- H->tau tau: Colin (1/2 page, 1 figure)
