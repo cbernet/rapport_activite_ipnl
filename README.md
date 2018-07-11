@@ -35,6 +35,8 @@ Un premier draft de l’ensemble des contributions devra être disponible d’ic
 
 Voici ce que je propose. La discussion est ouverte, contactez-moi directement si vous voyez un souci avec ça. En italiques, le nom des responsables de section qui intéragiront directement avec moi avec github. Ces personnes peuvent simplement récupérer le texte des autres contributeurs, et faire l'intégration pour eux. 
 
+[page principale de notre section](main.md)
+
 - introduction globale : *Rob* (1/2 page)
 - physique: 
 	- Introduction: *Rob (ou Colin)* (1/2 page)

@@ -1,3 +1,5 @@
+# Recherche de résonances massives se désintégrant en paire de tops
+
 Le LHC pendant le Run-II s’est montré une usine à quarks top. L’étude de la physique du top est capitale pour la compréhension du Modèle Standard (MS) et pour sonder la présence de nouvelle physique au-delà du Modèle lui-même. Dans ce domaine, beaucoup d'intérêt est dédié à la recherche des nouvelles particules se désintégrant en paires de quark top à travers la reconstruction de la masse invariante du système de deux quark top dans l’état final.
 Cette analyse est de primordiale importance car un certain nombre de modèles qui étendent le MS prévoient la présence des résonances se couplant au quark top, notamment modèles de technicolor, d'extra dimensions ou avec la présence de bosons de Higgs additionnels. Les signatures expérimentales peuvent être différentes selon le modèle que l'on considère et le spin de la particule considérée. 
 
