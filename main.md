@@ -1,6 +1,6 @@
 # CMS 
 
-**Introduction générale ici (Roberto) ** 
+**Introduction générale ici (Roberto)** 
 
 ## CMS durant le run 2 du LHC
 
